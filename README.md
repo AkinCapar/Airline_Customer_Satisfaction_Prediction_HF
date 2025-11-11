@@ -1,3 +1,13 @@
+---
+title: Airline Customer Satisfaction Predictiion
+emoji: 🎓
+sdk: gradio
+sdk_version: 4.44.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 ## End to end airline customer satisfaction prediction project.
 
 
